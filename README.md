@@ -8,7 +8,7 @@ Cub3d is my favorite project in 42Seoul.
 
 ## Goal
 
-Make virtual 3D environment using raycasting like <a href="https://fr.wikipedia.org/wiki/Wolfenstein_3D" target="blank">Wolfenstein 3D</a>
+Make virtual 3D environment using raycasting like <a href="https://fr.wikipedia.org/wiki/Wolfenstein_3D" target="_blank">Wolfenstein 3D</a>
 
 <img src="https://kirkim.github.io/assets/storage/cub3d/Cub3d2.gif" alt="playing cub3d">
 
@@ -17,7 +17,7 @@ Make virtual 3D environment using raycasting like <a href="https://fr.wikipedia.
 ## Skills
 
 - C language
-- <a href="https://harm-smits.github.io/42docs/libs/minilibx" target="blank">MinilibX</a>
+- <a href="https://harm-smits.github.io/42docs/libs/minilibx" target="_blank">MinilibX</a>
 
 <br><br>
 
