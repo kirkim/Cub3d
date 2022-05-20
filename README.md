@@ -1,8 +1,9 @@
 # Cub3d
 
-2021.04 ~ 2021.07
+&#91;2021.04 ~ 2021.07&#93;
 
-Cub3d is my favorite project in 42Seoul.
+- Cub3d is my favorite project in 42Seoul.
+- Posts about cub3d implementation: <a href="https://kirkim.github.io/tag/42seoul-ft-cub3d/" target="_blank">Cub3d - kirkim.github.io</a>
 
 <br><br>
 
@@ -17,13 +18,14 @@ Make virtual 3D environment using raycasting like <a href="https://fr.wikipedia.
 ## Skills
 
 - C language
+- Makefile
 - <a href="https://harm-smits.github.io/42docs/libs/minilibx" target="_blank">MinilibX</a>
 
 <br><br>
 
 ## How to run
 
-```shell
+```
 git clone git@github.com:kirkim/Cub3d.git
 cd Cub3d
 ```
@@ -32,21 +34,15 @@ you can make two kinds of cub3d `basic` & `bonus`
 
 ### basic
 
-```shell
-make
 ```
-
-```shell
+make
 ./cub3d ./map/test.cub
 ```
 
 ### bonus
 
-```shell
-make bonus
 ```
-
-```shell
+make bonus
 ./cub3d ./map/test_bonus.cub
 ```
 
