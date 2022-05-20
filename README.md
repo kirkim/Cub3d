@@ -48,7 +48,7 @@ make bonus
 
 <br><br>
 
-## raycasting controls
+## Controls
 
 - `w, a, s, d`: move key.
 - `←, ↑, →, ↓`: eyesight move key.
