@@ -4,11 +4,22 @@
 
 Cub3d is my favorite project in 42Seoul.
 
+<br><br>
+
 ## Goal
 
 Make virtual 3D environment using raycasting like <a href="https://fr.wikipedia.org/wiki/Wolfenstein_3D" target="blank">Wolfenstein 3D</a>
 
 <img src="https://kirkim.github.io/assets/storage/cub3d/Cub3d2.gif" alt="playing cub3d">
+
+<br><br>
+
+## Skills
+
+- C language
+- <a href="https://harm-smits.github.io/42docs/libs/minilibx" target="blank">MinilibX</a>
+
+<br><br>
 
 ## How to run
 
@@ -19,7 +30,7 @@ cd Cub3d
 
 you can make two kinds of cub3d `basic` & `bonus`
 
-- basic
+### basic
 
 ```shell
 make
@@ -29,7 +40,7 @@ make
 ./cub3d ./map/test.cub
 ```
 
-- bonus
+### bonus
 
 ```shell
 make bonus
@@ -38,6 +49,8 @@ make bonus
 ```shell
 ./cub3d ./map/test_bonus.cub
 ```
+
+<br><br>
 
 ## raycasting controls
 
