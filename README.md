@@ -2,7 +2,9 @@
 
 &#91;2021.04 ~ 2021.07&#93;
 
-- Cub3d is my favorite project in 42Seoul.
+- Cub3d is my favorite project in 42Seoul.<br />
+  because, 프로그래밍적 사고가 익숙하지 않던시절, 비교적 적은 정보에서 끝까지 해결한 프로젝트입니다.<br />
+  수학(삼각함수)를 활용한 첫프로젝트로 개발하는 동안 재미가 있었습니다.
 - Posts about cub3d implementation: <a href="https://kirkim.github.io/tag/42seoul-ft-cub3d/" target="_blank">Cub3d - kirkim.github.io</a>
 
 <br><br>
